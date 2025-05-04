@@ -1,5 +1,8 @@
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 Ceci est une description du projet dans le fichier README.md
+
+TP2 - Branches, merge et rebase - NomPrenom
+
 ⭐️ Congratulations BaptisteDK! ⭐️
 
 You completed this exercise! Nice work! 🥳
