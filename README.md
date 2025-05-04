@@ -1,5 +1,5 @@
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
-
+Ceci est une description du projet dans le fichier README.md
 ⭐️ Congratulations BaptisteDK! ⭐️
 
 You completed this exercise! Nice work! 🥳
@@ -69,3 +69,4 @@ In this exercise, you will:
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Cette phrase concerne la partie rebase du TP2. (feature4)
